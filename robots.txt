@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iptvrich.shop/sitemap.xml
